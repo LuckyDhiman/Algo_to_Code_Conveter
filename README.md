@@ -1,9 +1,5 @@
 # Algo_to_Code_Conveter
- 
-<<<<<<< HEAD
-#hea
-##head2
-=======
+
 **Introduction**
 A simple stand alone application in which user can give an algorithm or a pseudocode as input, the automatic AlgoToCode converter 
 converts the Algorithms to its corresponding C code.
