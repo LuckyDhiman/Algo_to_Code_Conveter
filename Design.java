@@ -253,7 +253,7 @@ public class Design extends javax.swing.JFrame implements ActionListener {
 
         String line[] = text.split("\\n");
         String str2 = "";
-        String arr[] = _06_Practice.processString(line);
+        String arr[] = Logic.processString(line);
         for(int i=0; i<arr.length;i++){
             str2 = str2 + arr[i]+"\n";
         }
